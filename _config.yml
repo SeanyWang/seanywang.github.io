@@ -1,3 +1,4 @@
 name: Sean H. Wang
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: https://seanywang.github.io/
+google_analytics: 'UA-80483166-1'
